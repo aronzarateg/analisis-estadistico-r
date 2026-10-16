@@ -3,7 +3,7 @@
 # EJERCICIO 1 - ANALISIS EXPLORATORIO DE DATOS (EDA)
 # TRAFICO Y MOVILIDAD URBANA
 # ============================================================
-
+# hay algunas cosas por corregir
 # 1. INSTALAR Y CARGAR LIBRERIAS
 paquetes <- c("dplyr", "ggplot2", "tidyr")
 
