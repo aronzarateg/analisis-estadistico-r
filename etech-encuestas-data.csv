@@ -1,0 +1,179 @@
+"clienteid","nombre","apellido","edad","genero","ubicaciongeografica","compraid","productoid","nombreproducto","descripcionproducto","categoria","fechacompra","cantidad","totalcompra","pregunta1","pregunta2","pregunta3","pregunta4","pregunta5","pregunta6","pregunta7","pregunta8","pregunta9","pregunta10"
+1,"Cliente1","Apellido1",20,"Masculino","Ciudad1",86,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2024-02-09",3,"37691616.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2,"Cliente2","Apellido2",28,"Femenino","Ciudad1",78,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2024-02-01",1,"12563872.00","Si","No","Si","Si","No","4","4","4","2","2"
+3,"Cliente3","Apellido3",40,"Masculino","Ciudad3",23,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2023-12-08",3,"37691616.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+6,"Cliente6","Apellido6",22,"Femenino","Ciudad1",29,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2023-12-14",3,"37691616.00","Si","No","No","Si","Si","2","4","5","4","5"
+17,"Cliente17","Apellido17",27,"Masculino","Ciudad17",17,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2023-12-02",3,"37691616.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+28,"Cliente28","Apellido28",64,"Femenino","Ciudad1",38,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2023-12-23",3,"37691616.00","No","No","No","Si","Si","5","5","4","3","5"
+30,"Cliente30","Apellido30",57,"Femenino","Ciudad9",54,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2024-01-08",1,"12563872.00","Si","No","Si","No","Si","1","3","5","3","4"
+35,"Cliente35","Apellido35",36,"Masculino","Ciudad35",59,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2024-01-13",3,"37691616.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+42,"Cliente42","Apellido42",50,"Femenino","Ciudad25",19,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2023-12-04",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+43,"Cliente43","Apellido43",60,"Masculino","Ciudad43",43,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2023-12-28",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+43,"Cliente43","Apellido43",60,"Masculino","Ciudad43",37,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2023-12-22",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+46,"Cliente46","Apellido46",37,"Femenino","Ciudad11",3,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2023-11-18",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+47,"Cliente47","Apellido47",34,"Masculino","Ciudad47",89,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2024-02-12",3,"37691616.00","No","Si","Si","No","No","3","2","5","2","4"
+47,"Cliente47","Apellido47",34,"Masculino","Ciudad47",89,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2024-02-12",3,"37691616.00","Si","Si","Si","Si","Si","5","2","2","2","6"
+47,"Cliente47","Apellido47",34,"Masculino","Ciudad47",33,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2023-12-18",1,"12563872.00","No","Si","Si","No","No","3","2","5","2","4"
+47,"Cliente47","Apellido47",34,"Masculino","Ciudad47",33,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2023-12-18",1,"12563872.00","Si","Si","Si","Si","Si","5","2","2","2","6"
+55,"Cliente55","Apellido55",43,"Masculino","Ciudad55",11,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2023-11-26",3,"37691616.00","Si","No","Si","No","No","6","2","3","3","4"
+56,"Cliente56","Apellido56",21,"Femenino","Ciudad23",85,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2024-02-08",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+57,"Cliente57","Apellido57",62,"Masculino","Ciudad57",18,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2023-12-03",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+59,"Cliente59","Apellido59",45,"Masculino","Ciudad59",79,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2024-02-02",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+62,"Cliente62","Apellido62",56,"Femenino","Ciudad19",73,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2024-01-27",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+62,"Cliente62","Apellido62",56,"Femenino","Ciudad19",45,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2023-12-30",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+64,"Cliente64","Apellido64",53,"Femenino","Ciudad11",10,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2023-11-25",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+65,"Cliente65","Apellido65",30,"Masculino","Ciudad65",20,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2023-12-05",3,"37691616.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+66,"Cliente66","Apellido66",42,"Femenino","Ciudad1",27,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2023-12-12",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+72,"Cliente72","Apellido72",57,"Femenino","Ciudad11",49,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2024-01-03",2,"25127744.00","No","Si","Si","Si","Si","2","3","2","5","3"
+75,"Cliente75","Apellido75",42,"Masculino","Ciudad75",41,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2023-12-26",3,"37691616.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+85,"Cliente85","Apellido85",37,"Masculino","Ciudad85",81,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2024-02-04",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+91,"Cliente91","Apellido91",42,"Masculino","Ciudad91",83,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2024-02-06",3,"37691616.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+91,"Cliente91","Apellido91",42,"Masculino","Ciudad91",76,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2024-01-30",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+93,"Cliente93","Apellido93",49,"Masculino","Ciudad93",72,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2024-01-26",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+97,"Cliente97","Apellido97",22,"Masculino","Ciudad97",34,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2023-12-19",2,"25127744.00","No","Si","No","No","No","3","1","5","3","4"
+103,"Cliente103","Apellido103",34,"Masculino","Ciudad103",67,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2024-01-21",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+104,"Cliente104","Apellido104",53,"Femenino","Ciudad71",48,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2024-01-02",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+107,"Cliente107","Apellido107",43,"Masculino","Ciudad107",35,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2023-12-20",3,"37691616.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+109,"Cliente109","Apellido109",42,"Masculino","Ciudad109",39,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2023-12-24",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+112,"Cliente112","Apellido112",38,"Femenino","Ciudad47",28,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2023-12-13",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+120,"Cliente120","Apellido120",39,"Femenino","Ciudad11",46,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2023-12-31",2,"25127744.00","No","Si","No","No","No","6","2","3","2","1"
+120,"Cliente120","Apellido120",39,"Femenino","Ciudad11",42,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2023-12-27",1,"12563872.00","No","Si","No","No","No","6","2","3","2","1"
+121,"Cliente121","Apellido121",44,"Masculino","Ciudad121",26,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2023-12-11",3,"37691616.00","No","Si","Si","Si","Si","3","1","2","3","4"
+125,"Cliente125","Apellido125",30,"Masculino","Ciudad125",97,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2024-02-20",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+128,"Cliente128","Apellido128",26,"Femenino","Ciudad31",69,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2024-01-23",1,"12563872.00","No","Si","Si","Si","No","3","5","3","3","5"
+128,"Cliente128","Apellido128",26,"Femenino","Ciudad31",62,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2024-01-16",3,"37691616.00","No","Si","Si","Si","No","3","5","3","3","5"
+128,"Cliente128","Apellido128",26,"Femenino","Ciudad31",44,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2023-12-29",3,"37691616.00","No","Si","Si","Si","No","3","5","3","3","5"
+129,"Cliente129","Apellido129",39,"Masculino","Ciudad129",88,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2024-02-11",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+129,"Cliente129","Apellido129",39,"Masculino","Ciudad129",51,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2024-01-05",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+142,"Cliente142","Apellido142",33,"Femenino","Ciudad21",53,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2024-01-07",3,"37691616.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+142,"Cliente142","Apellido142",33,"Femenino","Ciudad21",13,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2023-11-28",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+143,"Cliente143","Apellido143",26,"Masculino","Ciudad143",87,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2024-02-10",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+148,"Cliente148","Apellido148",53,"Femenino","Ciudad19",14,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2023-11-29",3,"37691616.00","Si","No","Si","No","No","5","5","5","3","2"
+160,"Cliente160","Apellido160",27,"Femenino","Ciudad31",66,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2024-01-20",1,"12563872.00","Si","Si","Si","No","No","3","4","3","4","3"
+161,"Cliente161","Apellido161",55,"Masculino","Ciudad161",65,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2024-01-19",3,"37691616.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+164,"Cliente164","Apellido164",29,"Femenino","Ciudad1",92,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2024-02-15",3,"37691616.00","Si","No","Si","Si","Si","4","2","4","3","1"
+164,"Cliente164","Apellido164",29,"Femenino","Ciudad1",92,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2024-02-15",3,"37691616.00","Si","Si","Si","Si","Si","5","2","3","1","5"
+169,"Cliente169","Apellido169",52,"Masculino","Ciudad169",93,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2024-02-16",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+171,"Cliente171","Apellido171",53,"Masculino","Ciudad171",80,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2024-02-03",3,"37691616.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+173,"Cliente173","Apellido173",38,"Masculino","Ciudad173",12,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2023-11-27",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+176,"Cliente176","Apellido176",42,"Femenino","Ciudad23",1,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2023-11-16",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+178,"Cliente178","Apellido178",23,"Femenino","Ciudad1",56,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2024-01-10",3,"37691616.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+179,"Cliente179","Apellido179",40,"Masculino","Ciudad179",9,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2023-11-24",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+190,"Cliente190","Apellido190",61,"Femenino","Ciudad53",8,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2023-11-23",3,"37691616.00","No","Si","No","No","No","3","1","1","6","3"
+200,"Cliente200","Apellido200",49,"Femenino","Ciudad13",40,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2023-12-25",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+200,"Cliente200","Apellido200",49,"Femenino","Ciudad13",31,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2023-12-16",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+200,"Cliente200","Apellido200",49,"Femenino","Ciudad13",21,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2023-12-06",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+202,"Cliente202","Apellido202",36,"Femenino","Ciudad105",96,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2024-02-19",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+203,"Cliente203","Apellido203",33,"Masculino","Ciudad203",77,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2024-01-31",3,"37691616.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+203,"Cliente203","Apellido203",33,"Masculino","Ciudad203",2,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2023-11-17",3,"37691616.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+204,"Cliente204","Apellido204",36,"Femenino","Ciudad1",90,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2024-02-13",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+204,"Cliente204","Apellido204",36,"Femenino","Ciudad1",70,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2024-01-24",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+220,"Cliente220","Apellido220",51,"Femenino","Ciudad41",68,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2024-01-22",3,"37691616.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+220,"Cliente220","Apellido220",51,"Femenino","Ciudad41",30,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2023-12-15",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+222,"Cliente222","Apellido222",38,"Femenino","Ciudad21",22,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2023-12-07",2,"25127744.00","Si","No","No","No","No","2","2","2","5","5"
+224,"Cliente224","Apellido224",61,"Femenino","Ciudad1",36,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2023-12-21",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+226,"Cliente226","Apellido226",27,"Femenino","Ciudad9",47,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2024-01-01",3,"37691616.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+231,"Cliente231","Apellido231",25,"Masculino","Ciudad231",5,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2023-11-20",3,"37691616.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+233,"Cliente233","Apellido233",60,"Masculino","Ciudad233",4,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2023-11-19",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+236,"Cliente236","Apellido236",62,"Femenino","Ciudad17",74,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2024-01-28",3,"37691616.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+237,"Cliente237","Apellido237",64,"Masculino","Ciudad237",55,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2024-01-09",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+238,"Cliente238","Apellido238",22,"Femenino","Ciudad17",64,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2024-01-18",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+240,"Cliente240","Apellido240",20,"Femenino","Ciudad15",58,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2024-01-12",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+242,"Cliente242","Apellido242",22,"Femenino","Ciudad75",32,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2023-12-17",3,"37691616.00","Si","Si","Si","No","Si","3","2","4","3","1"
+243,"Cliente243","Apellido243",62,"Masculino","Ciudad243",50,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2024-01-04",3,"37691616.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+249,"Cliente249","Apellido249",26,"Masculino","Ciudad249",82,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2024-02-05",2,"25127744.00","Si","No","No","No","No","6","1","4","3","4"
+250,"Cliente250","Apellido250",43,"Femenino","Ciudad203",84,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2024-02-07",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+253,"Cliente253","Apellido253",36,"Masculino","Ciudad253",91,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2024-02-14",2,"25127744.00","No","No","No","Si","Si","4","3","5","5","1"
+255,"Cliente255","Apellido255",19,"Masculino","Ciudad255",99,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2024-02-22",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+258,"Cliente258","Apellido258",63,"Femenino","Ciudad109",6,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2023-11-21",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+260,"Cliente260","Apellido260",26,"Femenino","Ciudad13",60,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2024-01-14",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+261,"Cliente261","Apellido261",26,"Masculino","Ciudad261",24,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2023-12-09",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+262,"Cliente262","Apellido262",56,"Femenino","Ciudad87",75,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2024-01-29",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+264,"Cliente264","Apellido264",55,"Femenino","Ciudad59",98,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2024-02-21",3,"37691616.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+264,"Cliente264","Apellido264",55,"Femenino","Ciudad59",61,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2024-01-15",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+275,"Cliente275","Apellido275",41,"Masculino","Ciudad275",52,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2024-01-06",2,"25127744.00","Si","Si","No","Si","No","3","5","5","5","5"
+275,"Cliente275","Apellido275",41,"Masculino","Ciudad275",7,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2023-11-22",2,"25127744.00","Si","Si","No","Si","No","3","5","5","5","5"
+276,"Cliente276","Apellido276",60,"Femenino","Ciudad13",57,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2024-01-11",1,"12563872.00","Si","No","Si","No","No","5","4","3","6","4"
+280,"Cliente280","Apellido280",28,"Femenino","Ciudad129",94,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2024-02-17",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+281,"Cliente281","Apellido281",41,"Masculino","Ciudad281",100,3,"Monitor Doorbird A1101","Pantalla, monitor o estación Interior de Vídeo IP A1101 para videoporteros DoorBird","Videoporteros","2024-02-23",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+283,"Cliente283","Apellido283",28,"Masculino","Ciudad283",15,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2023-11-30",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+289,"Cliente289","Apellido289",58,"Masculino","Ciudad289",25,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2023-12-10",2,"25127744.00","No","Si","Si","No","Si","6","4","5","5","2"
+291,"Cliente291","Apellido291",42,"Masculino","Ciudad291",63,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2024-01-17",1,"12563872.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+296,"Cliente296","Apellido296",44,"Femenino","Ciudad15",95,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2024-02-18",3,"37691616.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+299,"Cliente299","Apellido299",22,"Masculino","Ciudad299",16,2,"Doorbird D1101V IP ","Videoportero IP Doorbird D1101V","Videoporteros","2023-12-01",2,"25127744.00",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+300,"Cliente300","Apellido300",38,"Femenino","Ciudad85",71,1,"Doorbird D1101V-S WIFI IP","Videoportero WIFI / IP Doorbird edición de superficie D1101V-S","Videoporteros","2024-01-25",3,"37691616.00","No","No","Si","Si","No","4","3","5","3","4"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","No","No","No","No","6","4","1","4","5"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","Si","No","Si","1","6","3","6","2"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","Si","Si","Si","2","4","4","4","3"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","No","No","No","No","3","2","5","4","5"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","No","Si","No","5","3","3","3","1"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","Si","Si","No","Si","5","2","2","4","5"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","Si","No","No","2","4","6","4","4"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","Si","No","Si","1","5","1","2","1"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","No","Si","No","5","2","2","4","3"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","No","Si","Si","No","1","4","2","5","2"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","No","No","Si","No","5","5","2","4","2"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","Si","No","Si","2","2","2","5","2"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","No","Si","No","3","5","1","5","5"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","No","Si","Si","3","4","3","2","3"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","No","Si","No","No","4","3","5","2","3"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","No","No","No","Si","2","4","2","6","6"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","No","Si","No","No","2","1","6","5","2"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","No","No","No","Si","5","5","5","4","4"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","Si","No","Si","3","6","3","5","4"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","No","Si","No","No","2","4","4","5","3"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","Si","No","No","3","2","2","5","6"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","Si","Si","Si","No","3","6","3","3","3"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","No","No","No","No","4","5","3","4","5"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","No","Si","Si","No","3","5","5","3","1"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","No","Si","Si","No","3","1","2","2","6"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","No","Si","No","5","6","3","3","1"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","Si","Si","Si","Si","3","2","4","1","6"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","Si","No","Si","4","3","3","3","1"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","Si","Si","No","3","2","1","6","1"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","No","Si","No","Si","1","1","2","3","2"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","No","Si","Si","No","3","6","2","4","5"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","No","Si","No","Si","2","6","4","4","3"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","Si","Si","No","5","5","2","3","3"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","Si","No","No","No","6","6","6","3","4"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","Si","Si","No","No","3","5","5","2","2"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","No","Si","No","Si","3","2","3","5","5"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","Si","No","No","Si","3","4","3","4","1"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","No","No","No","No","3","6","5","4","1"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","No","No","No","No","5","3","6","3","3"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","No","No","Si","No","2","3","6","6","2"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","Si","No","No","No","2","4","6","3","2"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","No","Si","No","Si","3","2","5","2","4"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","No","Si","Si","Si","5","4","2","2","1"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","No","No","Si","Si","5","2","2","4","6"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","No","No","Si","1","4","6","3","4"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","Si","No","Si","No","5","2","1","3","3"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","No","Si","No","1","5","3","3","4"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","No","No","Si","3","4","6","1","2"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","Si","Si","Si","3","6","5","4","4"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","No","Si","No","3","6","2","2","5"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","No","No","Si","Si","5","1","1","4","3"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","No","No","No","No","4","2","5","4","5"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","Si","No","Si","Si","3","1","2","1","2"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","Si","No","No","4","4","2","5","4"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","Si","No","Si","Si","4","1","4","4","3"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","No","No","Si","No","3","4","4","3","5"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","Si","Si","Si","No","5","3","5","5","3"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","Si","Si","No","1","4","5","4","2"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","No","Si","No","No","3","2","4","3","4"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","Si","No","Si","Si","6","6","1","5","5"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","Si","No","No","3","3","1","2","3"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","Si","Si","Si","Si","2","4","6","4","5"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","Si","No","Si","4","5","2","2","4"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","Si","Si","Si","Si","1","2","6","2","2"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","No","Si","No","Si","1","6","1","5","2"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","Si","Si","No","6","3","4","4","2"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","No","No","No","No","2","1","4","3","4"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","Si","Si","Si","Si","2","4","3","4","5"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","Si","Si","No","Si","2","5","1","2","1"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","Si","No","Si","4","1","4","2","1"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","Si","Si","Si","3","5","2","2","1"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","Si","No","No","No","1","6","1","3","4"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"No","No","No","Si","Si","2","3","5","3","3"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","No","Si","Si","Si","4","2","5","4","2"
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Si","Si","Si","Si","No","2","1","4","3","3"
