@@ -1,0 +1,14 @@
+---
+title: "Pingüinos de Palmer"
+format: html
+---
+
+## ¿Qué especie pesa más? (datos: **palmerpenguins**)
+
+```{r}
+library(tidyverse); library(palmerpenguins)
+penguins |> group_by(species) |>
+  summarise(masa = mean(body_mass_g, na.rm = TRUE))
+```
+
+La especie más pesada es ...
